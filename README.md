@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 -   GitHub URL: [Forecastify repository](https://github.com/stephikebudu/forecastify)
--   Live Site URL: [forecastify.com](https://shoe-store-lac.vercel.app/)
+-   Live Site URL: [forecastify.app](https://stephikebudu-forecastify.vercel.app/)
 
 ## My process
 
